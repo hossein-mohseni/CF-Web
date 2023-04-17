@@ -18,7 +18,7 @@ CloudFlareIPExtractor ابزاری است که آدرس‌های IPv4 و IPv6 و
 همیشه خوشحال می‌شویم که به این پروژه کمک کنید! در صورت بروز مشکل، pull request یا مشکل را ایجاد کنید.
 
 ## 📃 مجوز:
-این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر فایل LICENSE را مشاهده کنید.
+این پروژه تحت مجوز MIT منتشر شده است. برای اطلاعات بیشتر فایل [LICENSE](https://github.com/hossein-mohseni/CF-Web/blob/main/LICENSE) را مشاهده کنید.
 
 
 
@@ -48,5 +48,5 @@ CloudFlareIPExtractor is a tool that extracts the IPv4 and IPv6 addresses of web
 Contributions to this project are always welcome! Feel free to submit a pull request or create an issue if you encounter any problems.
 
 ## 📃 License:
-This project is licensed under the MIT License. See the LICENSE file for more information.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/hossein-mohseni/CF-Web/blob/main/LICENSE) file for more information.
 

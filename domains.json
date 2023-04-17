@@ -2776,11 +2776,6 @@
       "ipv6": "::ffff:6812:05b6"
     },
     {
-      "domain": "www.fcwei.com",
-      "ipv4": "cdn.jsdelivr.net.cdn.cloudflare.net.",
-      "ipv6": "Null"
-    },
-    {
       "domain": "faucetpay.io",
       "ipv4": "172.67.73.12",
       "ipv6": "::ffff:ac43:490c"
@@ -3056,11 +3051,6 @@
       "ipv6": "::ffff:681a:0a31"
     },
     {
-      "domain": "ddxs.com",
-      "ipv4": "cdn.ddxs.net.",
-      "ipv6": "Null"
-    },
-    {
       "domain": "elegantthemes.com",
       "ipv4": "104.17.136.62",
       "ipv6": "::ffff:6811:883e"
@@ -3079,11 +3069,6 @@
       "domain": "jubt.fun",
       "ipv4": "188.114.96.3",
       "ipv6": "::ffff:bc72:6003"
-    },
-    {
-      "domain": "\u00e4\u00b8\u20ac\u00e5\u2026\u0192\u00e6\u0153\u00ba\u00e5\u0153\u00ba.com",
-      "ipv4": "Null",
-      "ipv6": "Null"
     },
     {
       "domain": "crazyshit.com",
@@ -3501,11 +3486,6 @@
       "ipv6": "::ffff:6811:1026"
     },
     {
-      "domain": "www.securecafe.com",
-      "ipv4": "www.securecafe.com.cdn.cloudflare.net.",
-      "ipv6": "Null"
-    },
-    {
       "domain": "vimm.net",
       "ipv4": "172.67.209.86",
       "ipv6": "::ffff:ac43:d156"
@@ -3611,11 +3591,6 @@
       "ipv6": "::ffff:6812:1f08"
     },
     {
-      "domain": "bible.comgitbooks.io",
-      "ipv4": "Null",
-      "ipv6": "Null"
-    },
-    {
       "domain": "manhwa18.net",
       "ipv4": "104.21.234.211",
       "ipv6": "::ffff:6815:ead3"
@@ -3659,11 +3634,6 @@
       "domain": "preply.com",
       "ipv4": "104.18.20.180",
       "ipv6": "::ffff:6812:14b4"
-    },
-    {
-      "domain": "36dm.club",
-      "ipv4": "36dm.club.cdn.cloudflare.net.",
-      "ipv6": "Null"
     },
     {
       "domain": "javgo.net",
@@ -3801,11 +3771,6 @@
       "ipv6": "::ffff:bc72:6003"
     },
     {
-      "domain": "asmr.one",
-      "ipv4": "zone-split.asmr.one.",
-      "ipv6": "Null"
-    },
-    {
       "domain": "vista.com",
       "ipv4": "104.18.8.91",
       "ipv6": "::ffff:6812:085b"
@@ -3824,11 +3789,6 @@
       "domain": "fontspace.com",
       "ipv4": "172.66.40.225",
       "ipv6": "::ffff:ac42:28e1"
-    },
-    {
-      "domain": "zhelper.net",
-      "ipv4": "Null",
-      "ipv6": "Null"
     },
     {
       "domain": "hotpot.ai",
@@ -3974,11 +3934,6 @@
       "domain": "vhlcentral.com",
       "ipv4": "104.17.199.59",
       "ipv6": "::ffff:6811:c73b"
-    },
-    {
-      "domain": "yunpz.net",
-      "ipv4": "Null",
-      "ipv6": "Null"
     },
     {
       "domain": "flingtrainer.com",
@@ -4196,11 +4151,6 @@
       "ipv6": "::ffff:ac43:b073"
     },
     {
-      "domain": "jumpmatome2ch.bi",
-      "ipv4": "Null",
-      "ipv6": "Null"
-    },
-    {
       "domain": "freetaxusa.com",
       "ipv4": "172.64.153.205",
       "ipv6": "::ffff:ac40:99cd"
@@ -4361,11 +4311,6 @@
       "ipv6": "::ffff:6811:b742"
     },
     {
-      "domain": "tsxsw.net",
-      "ipv4": "cdn.ywksw.net.",
-      "ipv6": "Null"
-    },
-    {
       "domain": "popcash.net",
       "ipv4": "104.21.52.38",
       "ipv6": "::ffff:6815:3426"
@@ -4454,11 +4399,6 @@
       "domain": "hxcy.moe",
       "ipv4": "188.114.96.3",
       "ipv6": "::ffff:bc72:6003"
-    },
-    {
-      "domain": "www.xlviirdr.com",
-      "ipv4": "wl.hpyrdr.com.",
-      "ipv6": "Null"
     },
     {
       "domain": "anyflip.com",
@@ -4776,11 +4716,6 @@
       "ipv6": "::ffff:bc72:6103"
     },
     {
-      "domain": "cryptonewzhub.co",
-      "ipv4": "Null",
-      "ipv6": "Null"
-    },
-    {
       "domain": "dongtaiwang.com",
       "ipv4": "104.26.4.19",
       "ipv6": "::ffff:681a:0413"
@@ -4894,11 +4829,6 @@
       "domain": "flamescans.org",
       "ipv4": "188.114.97.3",
       "ipv6": "::ffff:bc72:6103"
-    },
-    {
-      "domain": "forebet.com104.",
-      "ipv4": "Null",
-      "ipv6": "Null"
     },
     {
       "domain": "trafficdecisions.com",

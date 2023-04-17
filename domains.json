@@ -1,0 +1,2424 @@
+{
+  "data": [
+	{
+      "domain": "canva.com",
+      "ipv4": "104.16.227.10",
+      "ipv6": "::ffff:6810:e30a"
+    },
+    {
+      "domain": "xhamster.com",
+      "ipv4": "104.18.156.3",
+      "ipv6": "::ffff:6812:9c03"
+    },
+    {
+      "domain": "spankbang.com",
+      "ipv4": "104.19.136.100",
+      "ipv6": "::ffff:6813:8864"
+    },
+    {
+      "domain": "indeed.com",
+      "ipv4": "162.159.129.67",
+      "ipv6": "::ffff:a29f:8143"
+    },
+    {
+      "domain": "deepl.com",
+      "ipv4": "172.65.229.194",
+      "ipv6": "::ffff:ac41:e5c2"
+    },
+    {
+      "domain": "ilovepdf.com",
+      "ipv4": "104.20.1.94",
+      "ipv6": "::ffff:6814:015e"
+    },
+    {
+      "domain": "discord.com",
+      "ipv4": "162.159.138.232",
+      "ipv6": "::ffff:a29f:8ae8"
+    },
+    {
+      "domain": "namu.wiki",
+      "ipv4": "104.16.180.45",
+      "ipv6": "::ffff:6810:b42d"
+    },
+    {
+      "domain": "mediafire.com",
+      "ipv4": "104.16.53.48",
+      "ipv6": "::ffff:6810:3530"
+    },
+    {
+      "domain": "chaturbate.com",
+      "ipv4": "104.18.101.40",
+      "ipv6": "::ffff:6812:6528"
+    },
+    {
+      "domain": "fiverr.com",
+      "ipv4": "104.18.254.23",
+      "ipv6": "::ffff:6812:fe17"
+    },
+    {
+      "domain": "notion.so",
+      "ipv4": "104.18.6.183",
+      "ipv6": "::ffff:6812:06b7"
+    },
+    {
+      "domain": "medium.com",
+      "ipv4": "162.159.152.4",
+      "ipv6": "::ffff:a29f:9804"
+    },
+    {
+      "domain": "udemy.com",
+      "ipv4": "104.16.226.91",
+      "ipv6": "::ffff:6810:e25b"
+    },
+    {
+      "domain": "missav.com",
+      "ipv4": "172.67.74.86",
+      "ipv6": "::ffff:ac43:4a56"
+    },
+    {
+      "domain": "quizlet.com",
+      "ipv4": "104.17.188.102",
+      "ipv6": "::ffff:6811:bc66"
+    },
+    {
+      "domain": "researchgate.net",
+      "ipv4": "104.17.33.105",
+      "ipv6": "::ffff:6811:2169"
+    },
+    {
+      "domain": "ozon.ru",
+      "ipv4": "162.159.128.64",
+      "ipv6": "::ffff:a29f:8040"
+    },
+    {
+      "domain": "vimeo.com",
+      "ipv4": "162.159.138.60",
+      "ipv6": "::ffff:a29f:8a3c"
+    },
+    {
+      "domain": "sciencedirect.com",
+      "ipv4": "162.159.137.70",
+      "ipv6": "::ffff:a29f:8946"
+    },
+    {
+      "domain": "upwork.com",
+      "ipv4": "104.18.90.237",
+      "ipv6": "::ffff:6812:5aed"
+    },
+    {
+      "domain": "savefrom.net",
+      "ipv4": "104.22.41.216",
+      "ipv6": "::ffff:6816:29d8"
+    },
+    {
+      "domain": "e-hentai.org",
+      "ipv4": "104.20.135.21",
+      "ipv6": "::ffff:6814:8715"
+    },
+    {
+      "domain": "hubspot.com",
+      "ipv4": "104.19.155.83",
+      "ipv6": "::ffff:6813:9b53"
+    },
+    {
+      "domain": "quillbot.com",
+      "ipv4": "104.18.8.150",
+      "ipv6": "::ffff:6812:0896"
+    },
+    {
+      "domain": "pexels.com",
+      "ipv4": "104.18.182.99",
+      "ipv6": "::ffff:6812:b663"
+    },
+    {
+      "domain": "nhentai.net",
+      "ipv4": "104.21.66.123",
+      "ipv6": "::ffff:6815:427b"
+    },
+    {
+      "domain": "remove.bg",
+      "ipv4": "172.67.71.36",
+      "ipv6": "::ffff:ac43:4724"
+    },
+    {
+      "domain": "yts.mx",
+      "ipv4": "104.31.16.120",
+      "ipv6": "::ffff:681f:1078"
+    },
+    {
+      "domain": "sxyprn.com",
+      "ipv4": "172.64.96.9",
+      "ipv6": "::ffff:ac40:6009"
+    },
+    {
+      "domain": "cloudflare.com",
+      "ipv4": "104.16.133.229",
+      "ipv6": "::ffff:6810:85e5"
+    },
+    {
+      "domain": "y2mate.com",
+      "ipv4": "141.101.121.238",
+      "ipv6": "::ffff:8d65:79ee"
+    },
+    {
+      "domain": "investing.com",
+      "ipv4": "104.18.0.154",
+      "ipv6": "::ffff:6812:009a"
+    },
+    {
+      "domain": "pixabay.com",
+      "ipv4": "104.18.14.16",
+      "ipv6": "::ffff:6812:0e10"
+    },
+    {
+      "domain": "envato.com",
+      "ipv4": "104.18.253.82",
+      "ipv6": "::ffff:6812:fd52"
+    },
+    {
+      "domain": "zerodha.com",
+      "ipv4": "104.17.218.15",
+      "ipv6": "::ffff:6811:da0f"
+    },
+    {
+      "domain": "zoro.to",
+      "ipv4": "172.64.171.15",
+      "ipv6": "::ffff:ac40:ab0f"
+    },
+    {
+      "domain": "animeflv.net",
+      "ipv4": "104.26.1.100",
+      "ipv6": "::ffff:681a:0164"
+    },
+    {
+      "domain": "crunchyroll.com",
+      "ipv4": "172.64.147.123",
+      "ipv6": "::ffff:ac40:937b"
+    },
+    {
+      "domain": "v2ex.com",
+      "ipv4": "104.20.10.218",
+      "ipv6": "::ffff:6814:0ada"
+    },
+    {
+      "domain": "jable.tv",
+      "ipv4": "104.23.130.4",
+      "ipv6": "::ffff:6817:8204"
+    },
+    {
+      "domain": "hdfcbank.com",
+      "ipv4": "104.18.95.72",
+      "ipv6": "::ffff:6812:5f48"
+    },
+    {
+      "domain": "1337x.to",
+      "ipv4": "104.31.16.11",
+      "ipv6": "::ffff:681f:100b"
+    },
+    {
+      "domain": "manatoki215.net",
+      "ipv4": "172.67.184.226",
+      "ipv6": "::ffff:ac43:b8e2"
+    },
+    {
+      "domain": "9gag.com",
+      "ipv4": "104.16.103.144",
+      "ipv6": "::ffff:6810:6790"
+    },
+    {
+      "domain": "xhamsterlive.com",
+      "ipv4": "104.18.63.131",
+      "ipv6": "::ffff:6812:3f83"
+    },
+    {
+      "domain": "patreon.com",
+      "ipv4": "104.16.7.49",
+      "ipv6": "::ffff:6810:0731"
+    },
+    {
+      "domain": "stripchat.com",
+      "ipv4": "104.18.63.130",
+      "ipv6": "::ffff:6812:3f82"
+    },
+    {
+      "domain": "cambridge.org",
+      "ipv4": "104.16.55.52",
+      "ipv6": "::ffff:6810:3734"
+    },
+    {
+      "domain": "stripchat.com",
+      "ipv4": "104.18.63.130",
+      "ipv6": "::ffff:6812:3f82"
+    },
+    {
+      "domain": "cambridge.org",
+      "ipv4": "104.16.56.52",
+      "ipv6": "::ffff:6810:3834"
+    },
+    {
+      "domain": "gogoanime.bid",
+      "ipv4": "104.26.11.4",
+      "ipv6": "::ffff:681a:0b04"
+    },
+    {
+      "domain": "gitlab.com",
+      "ipv4": "172.65.251.78",
+      "ipv6": "::ffff:ac41:fb4e"
+    },
+    {
+      "domain": "artstation.com",
+      "ipv4": "104.16.226.51",
+      "ipv6": "::ffff:6810:e233"
+    },
+    {
+      "domain": "supjav.com",
+      "ipv4": "104.27.202.89",
+      "ipv6": "::ffff:681b:ca59"
+    },
+    {
+      "domain": "genius.com",
+      "ipv4": "104.18.22.208",
+      "ipv6": "::ffff:6812:16d0"
+    },
+    {
+      "domain": "npmjs.com",
+      "ipv4": "104.16.92.83",
+      "ipv6": "::ffff:6810:5c53"
+    },
+    {
+      "domain": "sourceforge.net",
+      "ipv4": "104.18.11.128",
+      "ipv6": "::ffff:6812:0b80"
+    },
+    {
+      "domain": "hostinger.com",
+      "ipv4": "104.18.113.100",
+      "ipv6": "::ffff:6812:7164"
+    },
+    {
+      "domain": "javdb.com",
+      "ipv4": "172.67.195.92",
+      "ipv6": "::ffff:ac43:c35c"
+    },
+    {
+      "domain": "gamer.com.tw",
+      "ipv4": "104.16.182.30",
+      "ipv6": "::ffff:6810:b61e"
+    },
+    {
+      "domain": "themeforest.net",
+      "ipv4": "104.18.9.20",
+      "ipv6": "::ffff:6812:0914"
+    },
+    {
+      "domain": "chapmanganato.com",
+      "ipv4": "104.22.30.182",
+      "ipv6": "::ffff:6816:1eb6"
+    },
+    {
+      "domain": "theporndude.com",
+      "ipv4": "104.19.128.100",
+      "ipv6": "::ffff:6813:8064"
+    },
+    {
+      "domain": "trendyol.com",
+      "ipv4": "104.18.175.21",
+      "ipv6": "::ffff:6812:af15"
+    },
+    {
+      "domain": "9animetv.to",
+      "ipv4": "172.64.131.14",
+      "ipv6": "::ffff:ac40:830e"
+    },
+    {
+      "domain": "wise.com",
+      "ipv4": "104.18.16.28",
+      "ipv6": "::ffff:6812:101c"
+    },
+    {
+      "domain": "4chan.org",
+      "ipv4": "104.19.128.108",
+      "ipv6": "::ffff:6813:806c"
+    },
+    {
+      "domain": "discordapp.com",
+      "ipv4": "162.159.134.233",
+      "ipv6": "::ffff:a29f:86e9"
+    },
+    {
+      "domain": "for-j.com",
+      "ipv4": "104.18.9.13",
+      "ipv6": "::ffff:6812:090d"
+    },
+    {
+      "domain": "gumroad.com",
+      "ipv4": "104.16.192.25",
+      "ipv6": "::ffff:6810:c019"
+    },
+    {
+      "domain": "ouo.io",
+      "ipv4": "172.67.6.151",
+      "ipv6": "::ffff:ac43:0697"
+    },
+    {
+      "domain": "tktube.com",
+      "ipv4": "172.64.128.28",
+      "ipv6": "::ffff:ac40:801c"
+    },
+    {
+      "domain": "btnull.org",
+      "ipv4": "104.21.41.109",
+      "ipv6": "::ffff:6815:296d"
+    },
+    {
+      "domain": "midjourney.com",
+      "ipv4": "104.22.64.120",
+      "ipv6": "::ffff:6816:4078"
+    },
+    {
+      "domain": "digitalocean.com",
+      "ipv4": "104.16.181.15",
+      "ipv6": "::ffff:6810:b50f"
+    },
+    {
+      "domain": "rule34.xxx",
+      "ipv4": "104.26.1.234",
+      "ipv6": "::ffff:681a:01ea"
+    },
+    {
+      "domain": "arca.live",
+      "ipv4": "104.18.17.140",
+      "ipv6": "::ffff:6812:118c"
+    },
+    {
+      "domain": "calendly.com",
+      "ipv4": "172.66.40.230",
+      "ipv6": "::ffff:ac42:28e6"
+    },
+    {
+      "domain": "wnacg.org",
+      "ipv4": "172.67.71.248",
+      "ipv6": "::ffff:ac43:47f8"
+    },
+    {
+      "domain": "codepen.io",
+      "ipv4": "104.16.176.44",
+      "ipv6": "::ffff:6810:b02c"
+    },
+    {
+      "domain": "rutracker.org",
+      "ipv4": "172.67.187.38",
+      "ipv6": "::ffff:ac43:bb26"
+    },
+    {
+      "domain": "namecheap.com",
+      "ipv4": "198.54.117.250",
+      "ipv6": "::ffff:c636:75fa"
+    },
+    {
+      "domain": "eksisozluk.com",
+      "ipv4": "104.22.25.137",
+      "ipv6": "::ffff:6816:1989"
+    },
+    {
+      "domain": "soap2day.to",
+      "ipv4": "104.31.16.120",
+      "ipv6": "::ffff:681f:1078"
+    },
+    {
+      "domain": "fapello.com",
+      "ipv4": "104.22.18.170",
+      "ipv6": "::ffff:6816:12aa"
+    },
+    {
+      "domain": "futbin.com",
+      "ipv4": "104.19.142.69",
+      "ipv6": "::ffff:6813:8e45"
+    },
+    {
+      "domain": "drctcldfa.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "mdpi.com",
+      "ipv4": "104.18.24.151",
+      "ipv6": "::ffff:6812:1897"
+    },
+    {
+      "domain": "txxx.com",
+      "ipv4": "172.64.172.21",
+      "ipv6": "::ffff:ac40:ac15"
+    },
+    {
+      "domain": "wayfair.com",
+      "ipv4": "151.101.1.252",
+      "ipv6": "::ffff:9765:01fc"
+    },
+    {
+      "domain": "donmai.us",
+      "ipv4": "104.26.11.39",
+      "ipv6": "::ffff:681a:0b27"
+    },
+    {
+      "domain": "asurascans.com",
+      "ipv4": "172.67.72.146",
+      "ipv6": "::ffff:ac43:4892"
+    },
+    {
+      "domain": "poki.com",
+      "ipv4": "104.16.208.71",
+      "ipv6": "::ffff:6810:d047"
+    },
+    {
+      "domain": "bunkr.ru",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "freecodecamp.org",
+      "ipv4": "104.26.2.33",
+      "ipv6": "::ffff:681a:0221"
+    },
+    {
+      "domain": "hanime1.me",
+      "ipv4": "104.26.0.18",
+      "ipv6": "::ffff:681a:0012"
+    },
+    {
+      "domain": "5ch.net",
+      "ipv4": "172.64.167.15",
+      "ipv6": "::ffff:ac40:a70f"
+    },
+    {
+      "domain": "notion.site",
+      "ipv4": "104.18.33.232",
+      "ipv6": "::ffff:6812:21e8"
+    },
+    {
+      "domain": "opensea.io",
+      "ipv4": "104.18.12.217",
+      "ipv6": "::ffff:6812:0cd9"
+    },
+    {
+      "domain": "dood.yt",
+      "ipv4": "104.26.0.64",
+      "ipv6": "::ffff:681a:0040"
+    },
+    {
+      "domain": "glassdoor.com",
+      "ipv4": "104.17.90.51",
+      "ipv6": "::ffff:6811:5a33"
+    },
+    {
+      "domain": "6080dy2.com",
+      "ipv4": "104.16.59.54",
+      "ipv6": "::ffff:6810:3b36"
+    },
+    {
+      "domain": "upornia.com",
+      "ipv4": "172.64.133.7",
+      "ipv6": "::ffff:ac40:8507"
+    },
+    {
+      "domain": "redgifs.com",
+      "ipv4": "104.18.28.20",
+      "ipv6": "::ffff:6812:1c14"
+    },
+    {
+      "domain": "pornzog.com",
+      "ipv4": "172.64.193.12",
+      "ipv6": "::ffff:ac40:c10c"
+    },
+    {
+      "domain": "substack.com",
+      "ipv4": "172.64.154.11",
+      "ipv6": "::ffff:ac40:9a0b"
+    },
+    {
+      "domain": "18comic.vip",
+      "ipv4": "104.23.129.6",
+      "ipv6": "::ffff:6817:8106"
+    },
+    {
+      "domain": "ahhhhfs.com",
+      "ipv4": "172.67.149.218",
+      "ipv6": "::ffff:ac43:95da"
+    },
+    {
+      "domain": "pdfdrive.com",
+      "ipv4": "172.67.73.17",
+      "ipv6": "::ffff:ac43:4911"
+    },
+    {
+      "domain": "rule34video.com",
+      "ipv4": "104.27.203.89",
+      "ipv6": "::ffff:681b:cb59"
+    },
+    {
+      "domain": "yourbestjournal.com",
+      "ipv4": "172.67.131.102",
+      "ipv6": "::ffff:ac43:8366"
+    },
+    {
+      "domain": "uptobox.com",
+      "ipv4": "172.67.29.218",
+      "ipv6": "::ffff:ac43:1dda"
+    },
+    {
+      "domain": "xfantazy.com",
+      "ipv4": "172.64.142.8",
+      "ipv6": "::ffff:ac40:8e08"
+    },
+    {
+      "domain": "dogdrip.net",
+      "ipv4": "104.19.234.41",
+      "ipv6": "::ffff:6813:ea29"
+    },
+    {
+      "domain": "vidhub.top",
+      "ipv4": "172.67.188.173",
+      "ipv6": "::ffff:ac43:bcad"
+    },
+    {
+      "domain": "lectortmo.com",
+      "ipv4": "172.67.73.163",
+      "ipv6": "::ffff:ac43:49a3"
+    },
+    {
+      "domain": "smallseotools.com",
+      "ipv4": "104.22.68.66",
+      "ipv6": "::ffff:6816:4442"
+    },
+    {
+      "domain": "newtoki215.com",
+      "ipv4": "104.21.92.241",
+      "ipv6": "::ffff:6815:5cf1"
+    },
+    {
+      "domain": "byjus.com",
+      "ipv4": "162.159.129.41",
+      "ipv6": "::ffff:a29f:8129"
+    },
+    {
+      "domain": "jav.guru",
+      "ipv4": "172.67.71.187",
+      "ipv6": "::ffff:ac43:47bb"
+    },
+    {
+      "domain": "javatpoint.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "getbootstrap.com",
+      "ipv4": "172.67.30.148",
+      "ipv6": "::ffff:ac43:1e94"
+    },
+    {
+      "domain": "iwara.tv",
+      "ipv4": "172.67.71.154",
+      "ipv6": "::ffff:ac43:479a"
+    },
+    {
+      "domain": "iloveimg.com",
+      "ipv4": "172.66.43.238",
+      "ipv6": "::ffff:ac42:2bee"
+    },
+    {
+      "domain": "apa.az",
+      "ipv4": "104.21.50.239",
+      "ipv6": "::ffff:6815:32ef"
+    },
+    {
+      "domain": "vecteezy.com",
+      "ipv4": "104.18.21.152",
+      "ipv6": "::ffff:6812:1598"
+    },
+    {
+      "domain": "javmix.tv",
+      "ipv4": "104.21.235.86",
+      "ipv6": "::ffff:6815:eb56"
+    },
+    {
+      "domain": "oxu.az",
+      "ipv4": "104.27.205.87",
+      "ipv6": "::ffff:681b:cd57"
+    },
+    {
+      "domain": "teachable.com",
+      "ipv4": "104.19.239.117",
+      "ipv6": "::ffff:6813:ef75"
+    },
+    {
+      "domain": "zoominfo.com",
+      "ipv4": "104.16.168.82",
+      "ipv6": "::ffff:6810:a852"
+    },
+    {
+      "domain": "slickdeals.net",
+      "ipv4": "104.17.126.18",
+      "ipv6": "::ffff:6811:7e12"
+    },
+    {
+      "domain": "javhdporn.net",
+      "ipv4": "104.21.233.142",
+      "ipv6": "::ffff:6815:e98e"
+    },
+    {
+      "domain": "bdys01.com",
+      "ipv4": "172.67.135.39",
+      "ipv6": "::ffff:ac43:8727"
+    },
+    {
+      "domain": "fmovies.to",
+      "ipv4": "104.31.16.10",
+      "ipv6": "::ffff:681f:100a"
+    },
+    {
+      "domain": "faphouse.com",
+      "ipv4": "172.64.147.142",
+      "ipv6": "::ffff:ac40:938e"
+    },
+    {
+      "domain": "imagetwist.com",
+      "ipv4": "104.21.235.50",
+      "ipv6": "::ffff:6815:eb32"
+    },
+    {
+      "domain": "pngtree.com",
+      "ipv4": "104.18.3.157",
+      "ipv6": "::ffff:6812:039d"
+    },
+    {
+      "domain": "sheetvibe.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "streamtape.com",
+      "ipv4": "104.26.6.138",
+      "ipv6": "::ffff:681a:068a"
+    },
+    {
+      "domain": "pornone.com",
+      "ipv4": "104.26.14.226",
+      "ipv6": "::ffff:681a:0ee2"
+    },
+    {
+      "domain": "drctcldfafwr.com",
+      "ipv4": "172.67.215.186",
+      "ipv6": "::ffff:ac43:d7ba"
+    },
+    {
+      "domain": "tandfonline.com",
+      "ipv4": "104.18.18.218",
+      "ipv6": "::ffff:6812:12da"
+    },
+    {
+      "domain": "leetcode.com",
+      "ipv4": "172.67.72.213",
+      "ipv6": "::ffff:ac43:48d5"
+    },
+    {
+      "domain": "forexfactory.com",
+      "ipv4": "104.18.26.248",
+      "ipv6": "::ffff:6812:1af8"
+    },
+    {
+      "domain": "feedly.com",
+      "ipv4": "104.20.59.241",
+      "ipv6": "::ffff:6814:3bf1"
+    },
+    {
+      "domain": "manganato.com",
+      "ipv4": "104.26.2.67",
+      "ipv6": "::ffff:681a:0243"
+    },
+    {
+      "domain": "coingecko.com",
+      "ipv4": "104.18.31.225",
+      "ipv6": "::ffff:6812:1fe1"
+    },
+    {
+      "domain": "codecanyon.net",
+      "ipv4": "104.18.21.78",
+      "ipv6": "::ffff:6812:154e"
+    },
+    {
+      "domain": "avgle.com",
+      "ipv4": "172.64.136.7",
+      "ipv6": "::ffff:ac40:8807"
+    },
+    {
+      "domain": "emojipedia.org",
+      "ipv4": "104.22.54.209",
+      "ipv6": "::ffff:6816:36d1"
+    },
+    {
+      "domain": "online-convert.com",
+      "ipv4": "104.22.58.173",
+      "ipv6": "::ffff:6816:3aad"
+    },
+    {
+      "domain": "ahrefs.com",
+      "ipv4": "104.18.28.112",
+      "ipv6": "::ffff:6812:1c70"
+    },
+    {
+      "domain": "redbubble.com",
+      "ipv4": "104.18.8.241",
+      "ipv6": "::ffff:6812:08f1"
+    },
+    {
+      "domain": "wallhaven.cc",
+      "ipv4": "104.26.14.163",
+      "ipv6": "::ffff:681a:0ea3"
+    },
+    {
+      "domain": "colamanhua.com",
+      "ipv4": "104.26.9.225",
+      "ipv6": "::ffff:681a:09e1"
+    },
+    {
+      "domain": "coinbase.com",
+      "ipv4": "104.18.4.43",
+      "ipv6": "::ffff:6812:042b"
+    },
+    {
+      "domain": "sex.com",
+      "ipv4": "172.64.152.236",
+      "ipv6": "::ffff:ac40:98ec"
+    },
+    {
+      "domain": "erothots.co",
+      "ipv4": "172.64.206.19",
+      "ipv6": "::ffff:ac40:ce13"
+    },
+    {
+      "domain": "4channel.org",
+      "ipv4": "104.18.187.83",
+      "ipv6": "::ffff:6812:bb53"
+    },
+    {
+      "domain": "oaxyteek.net",
+      "ipv4": "172.64.129.18",
+      "ipv6": "::ffff:ac40:8112"
+    },
+    {
+      "domain": "nexusmods.com",
+      "ipv4": "104.18.7.36",
+      "ipv6": "::ffff:6812:0724"
+    },
+    {
+      "domain": "doordash.com",
+      "ipv4": "104.18.29.209",
+      "ipv6": "::ffff:6812:1dd1"
+    },
+    {
+      "domain": "activehosted.com",
+      "ipv4": "104.17.91.109",
+      "ipv6": "::ffff:6811:5b6d"
+    },
+    {
+      "domain": "igram.io",
+      "ipv4": "172.67.68.76",
+      "ipv6": "::ffff:ac43:444c"
+    },
+    {
+      "domain": "xiaoheimi.net",
+      "ipv4": "104.26.12.142",
+      "ipv6": "::ffff:681a:0c8e"
+    },
+    {
+      "domain": "report.az",
+      "ipv4": "104.26.6.156",
+      "ipv6": "::ffff:681a:069c"
+    },
+    {
+      "domain": "czzy01.com",
+      "ipv4": "172.67.161.27",
+      "ipv6": "::ffff:ac43:a11b"
+    },
+    {
+      "domain": "hanime.tv",
+      "ipv4": "172.64.140.9",
+      "ipv6": "::ffff:ac40:8c09"
+    },
+    {
+      "domain": "aznude.com",
+      "ipv4": "104.18.57.214",
+      "ipv6": "::ffff:6812:39d6"
+    },
+    {
+      "domain": "booth.pm",
+      "ipv4": "172.64.153.239",
+      "ipv6": "::ffff:ac40:99ef"
+    },
+    {
+      "domain": "yadongtube.net",
+      "ipv4": "104.17.39.55",
+      "ipv6": "::ffff:6811:2737"
+    },
+    {
+      "domain": "kooora.com",
+      "ipv4": "104.18.8.101",
+      "ipv6": "::ffff:6812:0865"
+    },
+    {
+      "domain": "e621.net",
+      "ipv4": "104.26.4.231",
+      "ipv6": "::ffff:681a:04e7"
+    },
+    {
+      "domain": "hostinger.in",
+      "ipv4": "104.18.12.60",
+      "ipv6": "::ffff:6812:0c3c"
+    },
+    {
+      "domain": "linkvertise.com",
+      "ipv4": "172.64.164.4",
+      "ipv6": "::ffff:ac40:a404"
+    },
+    {
+      "domain": "coursehero.com",
+      "ipv4": "104.17.92.47",
+      "ipv6": "::ffff:6811:5c2f"
+    },
+    {
+      "domain": "www.crunchbase.com",
+      "ipv4": "104.22.63.68",
+      "ipv6": "::ffff:6816:3f44"
+    },
+    {
+      "domain": "javgg.net",
+      "ipv4": "104.26.2.82",
+      "ipv6": "::ffff:681a:0252"
+    },
+    {
+      "domain": "pelisplus.lat",
+      "ipv4": "172.67.153.29",
+      "ipv6": "::ffff:ac43:991d"
+    },
+    {
+      "domain": "cloudinary.com",
+      "ipv4": "162.159.137.83",
+      "ipv6": "::ffff:a29f:8953"
+    },
+    {
+      "domain": "libvio.me",
+      "ipv4": "104.21.27.212",
+      "ipv6": "::ffff:6815:1bd4"
+    },
+    {
+      "domain": "jut.su",
+      "ipv4": "104.26.11.147",
+      "ipv6": "::ffff:681a:0b93"
+    },
+    {
+      "domain": "crazygames.com",
+      "ipv4": "104.18.217.100",
+      "ipv6": "::ffff:6812:d964"
+    },
+    {
+      "domain": "hdtoday.tv",
+      "ipv4": "104.27.204.89",
+      "ipv6": "::ffff:681b:cc59"
+    },
+    {
+      "domain": "groww.in",
+      "ipv4": "104.18.5.41",
+      "ipv6": "::ffff:6812:0529"
+    },
+    {
+      "domain": "gdz.ru",
+      "ipv4": "104.22.76.173",
+      "ipv6": "::ffff:6816:4cad"
+    },
+    {
+      "domain": "sextb.net",
+      "ipv4": "104.27.203.89",
+      "ipv6": "::ffff:681b:cb59"
+    },
+    {
+      "domain": "pianshen.com",
+      "ipv4": "172.67.167.186",
+      "ipv6": "::ffff:ac43:a7ba"
+    },
+    {
+      "domain": "piliapp.com",
+      "ipv4": "172.66.40.203",
+      "ipv6": "::ffff:ac42:28cb"
+    },
+    {
+      "domain": "uchi.ru",
+      "ipv4": "104.16.43.97",
+      "ipv6": "::ffff:6810:2b61"
+    },
+    {
+      "domain": "myflixer.to",
+      "ipv4": "104.31.16.118",
+      "ipv6": "::ffff:681f:1076"
+    },
+    {
+      "domain": "xhamster3.com",
+      "ipv4": "104.17.168.60",
+      "ipv6": "::ffff:6811:a83c"
+    },
+    {
+      "domain": "vitalsource.com",
+      "ipv4": "104.17.81.55",
+      "ipv6": "::ffff:6811:5137"
+    },
+    {
+      "domain": "shrinke.me",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "mangakakalot.com",
+      "ipv4": "172.67.68.23",
+      "ipv6": "::ffff:ac43:4417"
+    },
+    {
+      "domain": "gitbook.io",
+      "ipv4": "104.18.2.117",
+      "ipv6": "::ffff:6812:0275"
+    },
+    {
+      "domain": "steamdb.info",
+      "ipv4": "104.22.73.111",
+      "ipv6": "::ffff:6816:496f"
+    },
+    {
+      "domain": "runescape.wiki",
+      "ipv4": "104.22.67.222",
+      "ipv6": "::ffff:6816:43de"
+    },
+    {
+      "domain": "whatismyipaddress.com",
+      "ipv4": "104.16.154.36",
+      "ipv6": "::ffff:6810:9a24"
+    },
+    {
+      "domain": "takealot.com",
+      "ipv4": "104.19.175.61",
+      "ipv6": "::ffff:6813:af3d"
+    },
+    {
+      "domain": "brainly.com",
+      "ipv4": "104.17.74.91",
+      "ipv6": "::ffff:6811:4a5b"
+    },
+    {
+      "domain": "apkpure.com",
+      "ipv4": "104.22.4.119",
+      "ipv6": "::ffff:6816:0477"
+    },
+    {
+      "domain": "fontawesome.com",
+      "ipv4": "104.18.22.52",
+      "ipv6": "::ffff:6812:1634"
+    },
+    {
+      "domain": "duplichecker.com",
+      "ipv4": "172.67.69.27",
+      "ipv6": "::ffff:ac43:451b"
+    },
+    {
+      "domain": "2annalea.com",
+      "ipv4": "172.67.132.37",
+      "ipv6": "::ffff:ac43:8425"
+    },
+    {
+      "domain": "sarkariresult.com",
+      "ipv4": "104.18.18.133",
+      "ipv6": "::ffff:6812:1285"
+    },
+    {
+      "domain": "tmohentai.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "bhphotovideo.com",
+      "ipv4": "104.18.21.62",
+      "ipv6": "::ffff:6812:153e"
+    },
+    {
+      "domain": "subscene.com",
+      "ipv4": "104.21.235.116",
+      "ipv6": "::ffff:6815:eb74"
+    },
+    {
+      "domain": "etherscan.io",
+      "ipv4": "104.22.15.57",
+      "ipv6": "::ffff:6816:0f39"
+    },
+    {
+      "domain": "sxyprn.net",
+      "ipv4": "104.21.235.6",
+      "ipv6": "::ffff:6815:eb06"
+    },
+    {
+      "domain": "cuevana3.ai",
+      "ipv4": "172.64.194.37",
+      "ipv6": "::ffff:ac40:c225"
+    },
+    {
+      "domain": "soap2day.ac",
+      "ipv4": "104.31.16.5",
+      "ipv6": "::ffff:681f:1005"
+    },
+    {
+      "domain": "gimy.app",
+      "ipv4": "172.64.140.12",
+      "ipv6": "::ffff:ac40:8c0c"
+    },
+    {
+      "domain": "tgju.org",
+      "ipv4": "172.67.68.134",
+      "ipv6": "::ffff:ac43:4486"
+    },
+    {
+      "domain": "pdf2go.com",
+      "ipv4": "104.22.78.171",
+      "ipv6": "::ffff:6816:4eab"
+    },
+    {
+      "domain": "doujin-freee.com",
+      "ipv4": "172.67.75.187",
+      "ipv6": "::ffff:ac43:4bbb"
+    },
+    {
+      "domain": "y2mate.is",
+      "ipv4": "104.21.4.123",
+      "ipv6": "::ffff:6815:047b"
+    },
+    {
+      "domain": "bt-tt.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "91porn.com",
+      "ipv4": "104.26.3.41",
+      "ipv6": "::ffff:681a:0329"
+    },
+    {
+      "domain": "ssstwitter.com",
+      "ipv4": "172.67.74.16",
+      "ipv6": "::ffff:ac43:4a10"
+    },
+    {
+      "domain": "mydramalist.com",
+      "ipv4": "172.67.70.171",
+      "ipv6": "::ffff:ac43:46ab"
+    },
+    {
+      "domain": "pngegg.com",
+      "ipv4": "172.64.98.26",
+      "ipv6": "::ffff:ac40:621a"
+    },
+    {
+      "domain": "ukr.net",
+      "ipv4": "104.18.9.128",
+      "ipv6": "::ffff:6812:0980"
+    },
+    {
+      "domain": "towardsdatascience.com",
+      "ipv4": "162.159.153.4",
+      "ipv6": "::ffff:a29f:9904"
+    },
+    {
+      "domain": "socialblade.com",
+      "ipv4": "104.26.0.37",
+      "ipv6": "::ffff:681a:0025"
+    },
+    {
+      "domain": "7mmtv.sx",
+      "ipv4": "104.21.77.231",
+      "ipv6": "::ffff:6815:4de7"
+    },
+    {
+      "domain": "hsex.men",
+      "ipv4": "172.67.161.155",
+      "ipv6": "::ffff:ac43:a19b"
+    },
+    {
+      "domain": "temp-mail.org",
+      "ipv4": "172.67.73.98",
+      "ipv6": "::ffff:ac43:4962"
+    },
+    {
+      "domain": "incestflix.com",
+      "ipv4": "104.21.87.137",
+      "ipv6": "::ffff:6815:5789"
+    },
+    {
+      "domain": "91porny.com",
+      "ipv4": "172.64.102.19",
+      "ipv6": "::ffff:ac40:6613"
+    },
+    {
+      "domain": "tap.az",
+      "ipv4": "104.18.7.53",
+      "ipv6": "::ffff:6812:0735"
+    },
+    {
+      "domain": "jkanime.net",
+      "ipv4": "104.26.6.237",
+      "ipv6": "::ffff:681a:06ed"
+    },
+    {
+      "domain": "vjav.com",
+      "ipv4": "172.64.141.27",
+      "ipv6": "::ffff:ac40:8d1b"
+    },
+    {
+      "domain": "9anime.gs",
+      "ipv4": "172.67.149.93",
+      "ipv6": "::ffff:ac43:955d"
+    },
+    {
+      "domain": "bgm.tv",
+      "ipv4": "104.26.8.23",
+      "ipv6": "::ffff:681a:0817"
+    },
+    {
+      "domain": "testbook.com",
+      "ipv4": "172.67.30.170",
+      "ipv6": "::ffff:ac43:1eaa"
+    },
+    {
+      "domain": "m-team.cc",
+      "ipv4": "172.67.73.8",
+      "ipv6": "::ffff:ac43:4908"
+    },
+    {
+      "domain": "caliente.mx",
+      "ipv4": "172.64.154.103",
+      "ipv6": "::ffff:ac40:9a67"
+    },
+    {
+      "domain": "nodejs.org",
+      "ipv4": "104.20.22.46",
+      "ipv6": "::ffff:6814:162e"
+    },
+    {
+      "domain": "twidouga.net",
+      "ipv4": "172.67.26.242",
+      "ipv6": "::ffff:ac43:1af2"
+    },
+    {
+      "domain": "kickstarter.com",
+      "ipv4": "104.18.40.122",
+      "ipv6": "::ffff:6812:287a"
+    },
+    {
+      "domain": "javmost.com",
+      "ipv4": "104.27.203.89",
+      "ipv6": "::ffff:681b:cb59"
+    },
+    {
+      "domain": "dcard.tw",
+      "ipv4": "104.16.204.58",
+      "ipv6": "::ffff:6810:cc3a"
+    },
+    {
+      "domain": "ok.xxx",
+      "ipv4": "104.26.9.232",
+      "ipv6": "::ffff:681a:09e8"
+    },
+    {
+      "domain": "who.int",
+      "ipv4": "104.17.113.188",
+      "ipv6": "::ffff:6811:71bc"
+    },
+    {
+      "domain": "sflix.to",
+      "ipv4": "104.31.16.122",
+      "ipv6": "::ffff:681f:107a"
+    },
+    {
+      "domain": "1kbtool.com",
+      "ipv4": "172.66.47.58",
+      "ipv6": "::ffff:ac42:2f3a"
+    },
+    {
+      "domain": "bookmyshow.com",
+      "ipv4": "104.16.48.182",
+      "ipv6": "::ffff:6810:30b6"
+    },
+    {
+      "domain": "fextralife.com",
+      "ipv4": "172.66.40.234",
+      "ipv6": "::ffff:ac42:28ea"
+    },
+    {
+      "domain": "imhentai.xxx",
+      "ipv4": "104.26.12.229",
+      "ipv6": "::ffff:681a:0ce5"
+    },
+    {
+      "domain": "sehuatang.net",
+      "ipv4": "104.21.95.29",
+      "ipv6": "::ffff:6815:5f1d"
+    },
+    {
+      "domain": "civitai.com",
+      "ipv4": "104.26.9.150",
+      "ipv6": "::ffff:681a:0996"
+    },
+    {
+      "domain": "yhdmp.cc",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "rrdynb.com",
+      "ipv4": "172.67.145.177",
+      "ipv6": "::ffff:ac43:91b1"
+    },
+    {
+      "domain": "jeuxvideo.com",
+      "ipv4": "172.64.146.166",
+      "ipv6": "::ffff:ac40:92a6"
+    },
+    {
+      "domain": "prnt.sc",
+      "ipv4": "104.26.15.80",
+      "ipv6": "::ffff:681a:0f50"
+    },
+    {
+      "domain": "writesonic.com",
+      "ipv4": "172.66.40.253",
+      "ipv6": "::ffff:ac42:28fd"
+    },
+    {
+      "domain": "xhamster.desi",
+      "ipv4": "104.17.168.60",
+      "ipv6": "::ffff:6811:a83c"
+    },
+    {
+      "domain": "rmdown.com",
+      "ipv4": "104.21.234.157",
+      "ipv6": "::ffff:6815:ea9d"
+    },
+    {
+      "domain": "azertag.az",
+      "ipv4": "104.26.0.198",
+      "ipv6": "::ffff:681a:00c6"
+    },
+    {
+      "domain": "ilbe.com",
+      "ipv4": "104.23.140.17",
+      "ipv6": "::ffff:6817:8c11"
+    },
+    {
+      "domain": "theqoo.net",
+      "ipv4": "172.67.9.100",
+      "ipv6": "::ffff:ac43:0964"
+    },
+    {
+      "domain": "sozcu.com.tr",
+      "ipv4": "104.22.9.35",
+      "ipv6": "::ffff:6816:0923"
+    },
+    {
+      "domain": "bscscan.com",
+      "ipv4": "104.26.12.158",
+      "ipv6": "::ffff:681a:0c9e"
+    },
+    {
+      "domain": "filehorse.com",
+      "ipv4": "104.20.118.116",
+      "ipv6": "::ffff:6814:7674"
+    },
+    {
+      "domain": "techtarget.com",
+      "ipv4": "64.255.220.195",
+      "ipv6": "::ffff:40ff:dcc3"
+    },
+    {
+      "domain": "replit.com",
+      "ipv4": "104.18.26.192",
+      "ipv6": "::ffff:6812:1ac0"
+    },
+    {
+      "domain": "watchfreejavonline.com",
+      "ipv4": "104.21.90.197",
+      "ipv6": "::ffff:6815:5ac5"
+    },
+    {
+      "domain": "pathofexile.com",
+      "ipv4": "104.19.186.16",
+      "ipv6": "::ffff:6813:ba10"
+    },
+    {
+      "domain": "1377x.to",
+      "ipv4": "172.67.178.152",
+      "ipv6": "::ffff:ac43:b298"
+    },
+    {
+      "domain": "njav.tv",
+      "ipv4": "172.67.208.120",
+      "ipv6": "::ffff:ac43:d078"
+    },
+    {
+      "domain": "squareup.com",
+      "ipv4": "162.159.136.66",
+      "ipv6": "::ffff:a29f:8842"
+    },
+    {
+      "domain": "index.hr",
+      "ipv4": "104.19.141.57",
+      "ipv6": "::ffff:6813:8d39"
+    },
+    {
+      "domain": "ssyoutube.com",
+      "ipv4": "172.67.74.19",
+      "ipv6": "::ffff:ac43:4a13"
+    },
+    {
+      "domain": "goojara.to",
+      "ipv4": "172.64.137.5",
+      "ipv6": "::ffff:ac40:8905"
+    },
+    {
+      "domain": "slidesgo.com",
+      "ipv4": "172.67.9.18",
+      "ipv6": "::ffff:ac43:0912"
+    },
+    {
+      "domain": "xgroovy.com",
+      "ipv4": "172.64.97.12",
+      "ipv6": "::ffff:ac40:610c"
+    },
+    {
+      "domain": "123moviesfree.net",
+      "ipv4": "104.31.16.118",
+      "ipv6": "::ffff:681f:1076"
+    },
+    {
+      "domain": "loverslab.com",
+      "ipv4": "104.26.0.96",
+      "ipv6": "::ffff:681a:0060"
+    },
+    {
+      "domain": "sitesaver.net",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "pornhat.com",
+      "ipv4": "104.26.5.214",
+      "ipv6": "::ffff:681a:05d6"
+    },
+    {
+      "domain": "pcmag.com",
+      "ipv4": "104.17.101.99",
+      "ipv6": "::ffff:6811:6563"
+    },
+    {
+      "domain": "you.com",
+      "ipv4": "172.66.40.57",
+      "ipv6": "::ffff:ac42:2839"
+    },
+    {
+      "domain": "skroutz.gr",
+      "ipv4": "185.6.76.42",
+      "ipv6": "::ffff:b906:4c2a"
+    },
+    {
+      "domain": "pngwing.com",
+      "ipv4": "172.64.193.19",
+      "ipv6": "::ffff:ac40:c113"
+    },
+    {
+      "domain": "yhvod.net",
+      "ipv4": "172.67.135.198",
+      "ipv6": "::ffff:ac43:87c6"
+    },
+    {
+      "domain": "dotmovies.xyz",
+      "ipv4": "104.21.56.107",
+      "ipv6": "::ffff:6815:386b"
+    },
+    {
+      "domain": "cuevana3.it",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "2ch-c.net",
+      "ipv4": "104.17.115.51",
+      "ipv6": "::ffff:6811:7333"
+    },
+    {
+      "domain": "akakce.com",
+      "ipv4": "172.67.6.81",
+      "ipv6": "::ffff:ac43:0651"
+    },
+    {
+      "domain": "alternativeto.net",
+      "ipv4": "172.66.40.84",
+      "ipv6": "::ffff:ac42:2854"
+    },
+    {
+      "domain": "liveworksheets.com",
+      "ipv4": "104.26.7.3",
+      "ipv6": "::ffff:681a:0703"
+    },
+    {
+      "domain": "kapitalbank.az",
+      "ipv4": "104.22.35.79",
+      "ipv6": "::ffff:6816:234f"
+    },
+    {
+      "domain": "rapidtables.com",
+      "ipv4": "172.67.25.201",
+      "ipv6": "::ffff:ac43:19c9"
+    },
+    {
+      "domain": "iyf.tv",
+      "ipv4": "104.22.42.102",
+      "ipv6": "::ffff:6816:2a66"
+    },
+    {
+      "domain": "sendinblue.com",
+      "ipv4": "104.17.133.96",
+      "ipv6": "::ffff:6811:8560"
+    },
+    {
+      "domain": "linuxhint.com",
+      "ipv4": "104.18.7.55",
+      "ipv6": "::ffff:6812:0737"
+    },
+    {
+      "domain": "cableav.tv",
+      "ipv4": "104.26.7.127",
+      "ipv6": "::ffff:681a:077f"
+    },
+    {
+      "domain": "prothomalo.com",
+      "ipv4": "104.16.67.37",
+      "ipv6": "::ffff:6810:4325"
+    },
+    {
+      "domain": "bluehost.com",
+      "ipv4": "104.18.29.109",
+      "ipv6": "::ffff:6812:1d6d"
+    },
+    {
+      "domain": "hugedomains.com",
+      "ipv4": "104.26.6.37",
+      "ipv6": "::ffff:681a:0625"
+    },
+    {
+      "domain": "youm7.com",
+      "ipv4": "104.18.12.212",
+      "ipv6": "::ffff:6812:0cd4"
+    },
+    {
+      "domain": "mycimaa.tv",
+      "ipv4": "104.21.22.40",
+      "ipv6": "::ffff:6815:1628"
+    },
+    {
+      "domain": "bangbros.com",
+      "ipv4": "104.20.39.48",
+      "ipv6": "::ffff:6814:2730"
+    },
+    {
+      "domain": "4kporn.xxx",
+      "ipv4": "172.67.8.122",
+      "ipv6": "::ffff:ac43:087a"
+    },
+    {
+      "domain": "ziprecruiter.com",
+      "ipv4": "104.16.175.190",
+      "ipv6": "::ffff:6810:afbe"
+    },
+    {
+      "domain": "filecr.com",
+      "ipv4": "172.67.70.132",
+      "ipv6": "::ffff:ac43:4684"
+    },
+    {
+      "domain": "sexkbj.com",
+      "ipv4": "172.67.161.209",
+      "ipv6": "::ffff:ac43:a1d1"
+    },
+    {
+      "domain": "opensubtitles.org",
+      "ipv4": "172.64.130.37",
+      "ipv6": "::ffff:ac40:8225"
+    },
+    {
+      "domain": "kickassanime.ro",
+      "ipv4": "104.21.61.97",
+      "ipv6": "::ffff:6815:3d61"
+    },
+    {
+      "domain": "picd232.xyz",
+      "ipv4": "104.21.39.6",
+      "ipv6": "::ffff:6815:2706"
+    },
+    {
+      "domain": "japaneseasmr.com",
+      "ipv4": "172.67.177.18",
+      "ipv6": "::ffff:ac43:b112"
+    },
+    {
+      "domain": "btbtt15.com",
+      "ipv4": "172.67.198.235",
+      "ipv6": "::ffff:ac43:c6eb"
+    },
+    {
+      "domain": "xxxnewvideos.com",
+      "ipv4": "172.67.215.50",
+      "ipv6": "::ffff:ac43:d732"
+    },
+    {
+      "domain": "daft.sex",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "home-assistant.io",
+      "ipv4": "172.67.68.90",
+      "ipv6": "::ffff:ac43:445a"
+    },
+    {
+      "domain": "freeconvert.com",
+      "ipv4": "104.22.56.144",
+      "ipv6": "::ffff:6816:3890"
+    },
+    {
+      "domain": "5movierulz.sx",
+      "ipv4": "172.67.201.253",
+      "ipv6": "::ffff:ac43:c9fd"
+    },
+    {
+      "domain": "javhub.net",
+      "ipv4": "104.26.12.156",
+      "ipv6": "::ffff:681a:0c9c"
+    },
+    {
+      "domain": "nordvpn.com",
+      "ipv4": "104.17.50.74",
+      "ipv6": "::ffff:6811:324a"
+    },
+    {
+      "domain": "annas-archive.org",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "kinogo.biz",
+      "ipv4": "172.67.26.173",
+      "ipv6": "::ffff:ac43:1aad"
+    },
+    {
+      "domain": "perfectgirls.net",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "wcostream.net",
+      "ipv4": "104.26.12.209",
+      "ipv6": "::ffff:681a:0cd1"
+    },
+    {
+      "domain": "thestreameast.to",
+      "ipv4": "104.21.84.213",
+      "ipv6": "::ffff:6815:54d5"
+    },
+    {
+      "domain": "stockx.com",
+      "ipv4": "104.19.221.38",
+      "ipv6": "::ffff:6813:dd26"
+    },
+    {
+      "domain": "clarin.com",
+      "ipv4": "104.18.8.10",
+      "ipv6": "::ffff:6812:080a"
+    },
+    {
+      "domain": "thenetnaija.net",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "nordaccount.com",
+      "ipv4": "104.18.1.169",
+      "ipv6": "::ffff:6812:01a9"
+    },
+    {
+      "domain": "sweepstakessurveytoday.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "wordcounter.net",
+      "ipv4": "104.20.192.70",
+      "ipv6": "::ffff:6814:c046"
+    },
+    {
+      "domain": "filmaffinity.com",
+      "ipv4": "104.26.0.27",
+      "ipv6": "::ffff:681a:001b"
+    },
+    {
+      "domain": "hacg.mom",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "sejda.com",
+      "ipv4": "172.67.69.40",
+      "ipv6": "::ffff:ac43:4528"
+    },
+    {
+      "domain": "sofascore.com",
+      "ipv4": "172.67.14.13",
+      "ipv6": "::ffff:ac43:0e0d"
+    },
+    {
+      "domain": "cdntechone.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "ssense.com",
+      "ipv4": "104.18.154.62",
+      "ipv6": "::ffff:6812:9a3e"
+    },
+    {
+      "domain": "dood.re",
+      "ipv4": "172.67.68.226",
+      "ipv6": "::ffff:ac43:44e2"
+    },
+    {
+      "domain": "celebjihad.com",
+      "ipv4": "104.22.44.95",
+      "ipv6": "::ffff:6816:2c5f"
+    },
+    {
+      "domain": "clickfunnels.com",
+      "ipv4": "104.16.13.194",
+      "ipv6": "::ffff:6810:0dc2"
+    },
+    {
+      "domain": "dramacool.cr",
+      "ipv4": "104.26.5.60",
+      "ipv6": "::ffff:681a:053c"
+    },
+    {
+      "domain": "freebitco.in",
+      "ipv4": "104.22.7.169",
+      "ipv6": "::ffff:6816:07a9"
+    },
+    {
+      "domain": "otnolatrnup.com",
+      "ipv4": "104.19.214.37",
+      "ipv6": "::ffff:6813:d625"
+    },
+    {
+      "domain": "bitchute.com",
+      "ipv4": "172.67.68.161",
+      "ipv6": "::ffff:ac43:44a1"
+    },
+    {
+      "domain": "av19.org",
+      "ipv4": "104.16.237.233",
+      "ipv6": "::ffff:6810:ede9"
+    },
+    {
+      "domain": "myasiantv.cc",
+      "ipv4": "172.67.71.26",
+      "ipv6": "::ffff:ac43:471a"
+    },
+    {
+      "domain": "stardewvalleywiki.com",
+      "ipv4": "104.26.9.9",
+      "ipv6": "::ffff:681a:0909"
+    },
+    {
+      "domain": "nairaland.com",
+      "ipv4": "172.67.18.142",
+      "ipv6": "::ffff:ac43:128e"
+    },
+    {
+      "domain": "webassign.net",
+      "ipv4": "104.16.122.97",
+      "ipv6": "::ffff:6810:7a61"
+    },
+    {
+      "domain": "mangalivre.net",
+      "ipv4": "104.22.60.136",
+      "ipv6": "::ffff:6816:3c88"
+    },
+    {
+      "domain": "nivod.tv",
+      "ipv4": "172.67.13.238",
+      "ipv6": "::ffff:ac43:0dee"
+    },
+    {
+      "domain": "btbtt12.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "thefappeningblog.com",
+      "ipv4": "104.26.5.82",
+      "ipv6": "::ffff:681a:0552"
+    },
+    {
+      "domain": "shareasale.com",
+      "ipv4": "104.16.226.72",
+      "ipv6": "::ffff:6810:e248"
+    },
+    {
+      "domain": "codecademy.com",
+      "ipv4": "104.17.212.81",
+      "ipv6": "::ffff:6811:d451"
+    },
+    {
+      "domain": "beeg.com",
+      "ipv4": "104.21.12.215",
+      "ipv6": "::ffff:6815:0cd7"
+    },
+    {
+      "domain": "character.ai",
+      "ipv4": "104.18.0.153",
+      "ipv6": "::ffff:6812:0099"
+    },
+    {
+      "domain": "collinsdictionary.com",
+      "ipv4": "172.67.19.203",
+      "ipv6": "::ffff:ac43:13cb"
+    },
+    {
+      "domain": "veporno.net",
+      "ipv4": "172.64.109.5",
+      "ipv6": "::ffff:ac40:6d05"
+    },
+    {
+      "domain": "thehindu.com",
+      "ipv4": "104.18.9.209",
+      "ipv6": "::ffff:6812:09d1"
+    },
+    {
+      "domain": "nerdwallet.com",
+      "ipv4": "52.202.146.194",
+      "ipv6": "::ffff:34ca:92c2"
+    },
+    {
+      "domain": "btbtt11.com",
+      "ipv4": "172.67.212.109",
+      "ipv6": "::ffff:ac43:d46d"
+    },
+    {
+      "domain": "vseigru.net",
+      "ipv4": "172.67.173.251",
+      "ipv6": "::ffff:ac43:adfb"
+    },
+    {
+      "domain": "streamcheck.link",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "faselhd.club",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "coinpayu.com",
+      "ipv4": "104.26.12.26",
+      "ipv6": "::ffff:681a:0c1a"
+    },
+    {
+      "domain": "dmhy.org",
+      "ipv4": "172.67.98.15",
+      "ipv6": "::ffff:ac43:620f"
+    },
+    {
+      "domain": "finviz.com",
+      "ipv4": "104.22.0.49",
+      "ipv6": "::ffff:6816:0031"
+    },
+    {
+      "domain": "www.mykajabi.com",
+      "ipv4": "104.18.42.139",
+      "ipv6": "::ffff:6812:2a8b"
+    },
+    {
+      "domain": "ckk.ai",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "getadblock.com",
+      "ipv4": "104.22.43.139",
+      "ipv6": "::ffff:6816:2b8b"
+    },
+    {
+      "domain": "clipchamp.com",
+      "ipv4": "104.16.240.65",
+      "ipv6": "::ffff:6810:f041"
+    },
+    {
+      "domain": "spring.io",
+      "ipv4": "104.20.2.65",
+      "ipv6": "::ffff:6814:0241"
+    },
+    {
+      "domain": "moviesjoy.to",
+      "ipv4": "104.31.16.5",
+      "ipv6": "::ffff:681f:1005"
+    },
+    {
+      "domain": "iporntv.net",
+      "ipv4": "172.67.18.96",
+      "ipv6": "::ffff:ac43:1260"
+    },
+    {
+      "domain": "autotrader.co.uk",
+      "ipv4": "104.18.185.80",
+      "ipv6": "::ffff:6812:b950"
+    },
+    {
+      "domain": "freedidi.com",
+      "ipv4": "104.26.15.2",
+      "ipv6": "::ffff:681a:0f02"
+    },
+    {
+      "domain": "oneindia.com",
+      "ipv4": "104.18.9.249",
+      "ipv6": "::ffff:6812:09f9"
+    },
+    {
+      "domain": "drudgereport.com",
+      "ipv4": "104.22.4.207",
+      "ipv6": "::ffff:6816:04cf"
+    },
+    {
+      "domain": "pelisflix2.org",
+      "ipv4": "104.21.42.101",
+      "ipv6": "::ffff:6815:2a65"
+    },
+    {
+      "domain": "hentaimama.io",
+      "ipv4": "104.21.235.65",
+      "ipv6": "::ffff:6815:eb41"
+    },
+    {
+      "domain": "modyolo.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "codesandbox.io",
+      "ipv4": "104.18.6.114",
+      "ipv6": "::ffff:6812:0672"
+    },
+    {
+      "domain": "cian.ru",
+      "ipv4": "104.17.110.12",
+      "ipv6": "::ffff:6811:6e0c"
+    },
+    {
+      "domain": "dagbladet.no",
+      "ipv4": "104.18.19.222",
+      "ipv6": "::ffff:6812:13de"
+    },
+    {
+      "domain": "xhamster3.com",
+      "ipv4": "104.17.168.60",
+      "ipv6": "::ffff:6811:a83c"
+    },
+    {
+      "domain": "vitalsource.com",
+      "ipv4": "104.17.81.55",
+      "ipv6": "::ffff:6811:5137"
+    },
+    {
+      "domain": "shrinke.me",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "mangakakalot.com",
+      "ipv4": "104.26.3.251",
+      "ipv6": "::ffff:681a:03fb"
+    },
+    {
+      "domain": "gitbook.io",
+      "ipv4": "104.18.2.117",
+      "ipv6": "::ffff:6812:0275"
+    },
+    {
+      "domain": "steamdb.info",
+      "ipv4": "104.22.73.111",
+      "ipv6": "::ffff:6816:496f"
+    },
+    {
+      "domain": "runescape.wiki",
+      "ipv4": "104.22.67.222",
+      "ipv6": "::ffff:6816:43de"
+    },
+    {
+      "domain": "whatismyipaddress.com",
+      "ipv4": "104.16.154.36",
+      "ipv6": "::ffff:6810:9a24"
+    },
+    {
+      "domain": "takealot.com",
+      "ipv4": "104.19.175.61",
+      "ipv6": "::ffff:6813:af3d"
+    },
+    {
+      "domain": "brainly.com",
+      "ipv4": "104.17.73.91",
+      "ipv6": "::ffff:6811:495b"
+    },
+    {
+      "domain": "apkpure.com",
+      "ipv4": "104.22.5.119",
+      "ipv6": "::ffff:6816:0577"
+    },
+    {
+      "domain": "fontawesome.com",
+      "ipv4": "104.18.22.52",
+      "ipv6": "::ffff:6812:1634"
+    },
+    {
+      "domain": "duplichecker.com",
+      "ipv4": "104.26.13.84",
+      "ipv6": "::ffff:681a:0d54"
+    },
+    {
+      "domain": "2annalea.com",
+      "ipv4": "172.67.132.37",
+      "ipv6": "::ffff:ac43:8425"
+    },
+    {
+      "domain": "sarkariresult.com",
+      "ipv4": "104.18.19.133",
+      "ipv6": "::ffff:6812:1385"
+    },
+    {
+      "domain": "tmohentai.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "bhphotovideo.com",
+      "ipv4": "104.18.20.62",
+      "ipv6": "::ffff:6812:143e"
+    },
+    {
+      "domain": "subscene.com",
+      "ipv4": "104.21.235.116",
+      "ipv6": "::ffff:6815:eb74"
+    },
+    {
+      "domain": "etherscan.io",
+      "ipv4": "104.22.14.57",
+      "ipv6": "::ffff:6816:0e39"
+    },
+    {
+      "domain": "sxyprn.net",
+      "ipv4": "104.21.235.5",
+      "ipv6": "::ffff:6815:eb05"
+    },
+    {
+      "domain": "cuevana3.ai",
+      "ipv4": "172.64.195.37",
+      "ipv6": "::ffff:ac40:c325"
+    },
+    {
+      "domain": "soap2day.ac",
+      "ipv4": "104.31.16.124",
+      "ipv6": "::ffff:681f:107c"
+    },
+    {
+      "domain": "gimy.app",
+      "ipv4": "172.64.141.12",
+      "ipv6": "::ffff:ac40:8d0c"
+    },
+    {
+      "domain": "tgju.org",
+      "ipv4": "172.67.68.134",
+      "ipv6": "::ffff:ac43:4486"
+    },
+    {
+      "domain": "pdf2go.com",
+      "ipv4": "104.22.78.171",
+      "ipv6": "::ffff:6816:4eab"
+    },
+    {
+      "domain": "doujin-freee.com",
+      "ipv4": "104.26.9.62",
+      "ipv6": "::ffff:681a:093e"
+    },
+    {
+      "domain": "y2mate.is",
+      "ipv4": "172.67.132.18",
+      "ipv6": "::ffff:ac43:8412"
+    },
+    {
+      "domain": "bt-tt.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "91porn.com",
+      "ipv4": "104.26.2.41",
+      "ipv6": "::ffff:681a:0229"
+    },
+    {
+      "domain": "ssstwitter.com",
+      "ipv4": "172.67.74.16",
+      "ipv6": "::ffff:ac43:4a10"
+    },
+    {
+      "domain": "mydramalist.com",
+      "ipv4": "104.26.10.48",
+      "ipv6": "::ffff:681a:0a30"
+    },
+    {
+      "domain": "pngegg.com",
+      "ipv4": "172.64.98.26",
+      "ipv6": "::ffff:ac40:621a"
+    },
+    {
+      "domain": "ukr.net",
+      "ipv4": "104.18.9.128",
+      "ipv6": "::ffff:6812:0980"
+    },
+    {
+      "domain": "towardsdatascience.com",
+      "ipv4": "162.159.153.4",
+      "ipv6": "::ffff:a29f:9904"
+    },
+    {
+      "domain": "socialblade.com",
+      "ipv4": "104.26.0.37",
+      "ipv6": "::ffff:681a:0025"
+    },
+    {
+      "domain": "7mmtv.sx",
+      "ipv4": "104.21.77.231",
+      "ipv6": "::ffff:6815:4de7"
+    },
+    {
+      "domain": "hsex.men",
+      "ipv4": "104.21.49.98",
+      "ipv6": "::ffff:6815:3162"
+    },
+    {
+      "domain": "temp-mail.org",
+      "ipv4": "104.26.7.95",
+      "ipv6": "::ffff:681a:075f"
+    },
+    {
+      "domain": "incestflix.com",
+      "ipv4": "172.67.143.130",
+      "ipv6": "::ffff:ac43:8f82"
+    },
+    {
+      "domain": "91porny.com",
+      "ipv4": "172.64.102.19",
+      "ipv6": "::ffff:ac40:6613"
+    },
+    {
+      "domain": "tap.az",
+      "ipv4": "104.18.7.53",
+      "ipv6": "::ffff:6812:0735"
+    },
+    {
+      "domain": "jkanime.net",
+      "ipv4": "104.26.6.237",
+      "ipv6": "::ffff:681a:06ed"
+    },
+    {
+      "domain": "vjav.com",
+      "ipv4": "172.64.140.27",
+      "ipv6": "::ffff:ac40:8c1b"
+    },
+    {
+      "domain": "9anime.gs",
+      "ipv4": "172.67.149.93",
+      "ipv6": "::ffff:ac43:955d"
+    },
+    {
+      "domain": "bgm.tv",
+      "ipv4": "104.26.8.23",
+      "ipv6": "::ffff:681a:0817"
+    },
+    {
+      "domain": "testbook.com",
+      "ipv4": "172.67.30.170",
+      "ipv6": "::ffff:ac43:1eaa"
+    },
+    {
+      "domain": "m-team.cc",
+      "ipv4": "104.26.13.50",
+      "ipv6": "::ffff:681a:0d32"
+    },
+    {
+      "domain": "caliente.mx",
+      "ipv4": "104.18.33.153",
+      "ipv6": "::ffff:6812:2199"
+    },
+    {
+      "domain": "nodejs.org",
+      "ipv4": "104.20.22.46",
+      "ipv6": "::ffff:6814:162e"
+    },
+    {
+      "domain": "razer.com",
+      "ipv4": "13.52.84.170",
+      "ipv6": "::ffff:0d34:54aa"
+    },
+    {
+      "domain": "fullhdfilmizlesene.pw",
+      "ipv4": "172.67.9.223",
+      "ipv6": "::ffff:ac43:09df"
+    },
+    {
+      "domain": "realpython.com",
+      "ipv4": "104.22.17.171",
+      "ipv6": "::ffff:6816:11ab"
+    },
+    {
+      "domain": "yadongkorea.org",
+      "ipv4": "104.16.237.42",
+      "ipv6": "::ffff:6810:ed2a"
+    },
+    {
+      "domain": "hkvisa.net",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "jusbrasil.com.br",
+      "ipv4": "104.16.223.107",
+      "ipv6": "::ffff:6810:df6b"
+    },
+    {
+      "domain": "madou.club",
+      "ipv4": "104.26.1.177",
+      "ipv6": "::ffff:681a:01b1"
+    },
+    {
+      "domain": "influencersgonewild.com",
+      "ipv4": "104.21.235.116",
+      "ipv6": "::ffff:6815:eb74"
+    },
+    {
+      "domain": "sme.sk",
+      "ipv4": "104.22.12.230",
+      "ipv6": "::ffff:6816:0ce6"
+    },
+    {
+      "domain": "buffer.com",
+      "ipv4": "104.16.141.52",
+      "ipv6": "::ffff:6810:8d34"
+    },
+    {
+      "domain": "keywordtool.io",
+      "ipv4": "104.22.50.209",
+      "ipv6": "::ffff:6816:32d1"
+    },
+    {
+      "domain": "mangareader.to",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "jumia.com.ng",
+      "ipv4": "104.17.98.5",
+      "ipv6": "::ffff:6811:6205"
+    },
+    {
+      "domain": "1fuli.xyz",
+      "ipv4": "172.67.174.84",
+      "ipv6": "::ffff:ac43:ae54"
+    },
+    {
+      "domain": "soap2day.rs",
+      "ipv4": "104.21.87.11",
+      "ipv6": "::ffff:6815:570b"
+    },
+    {
+      "domain": "gigazine.net",
+      "ipv4": "172.67.34.58",
+      "ipv6": "::ffff:ac43:223a"
+    },
+    {
+      "domain": "rae.es",
+      "ipv4": "172.67.69.61",
+      "ipv6": "::ffff:ac43:453d"
+    },
+    {
+      "domain": "theync.com",
+      "ipv4": "104.22.35.231",
+      "ipv6": "::ffff:6816:23e7"
+    },
+    {
+      "domain": "goodporn.to",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "mvnrepository.com",
+      "ipv4": "172.67.28.102",
+      "ipv6": "::ffff:ac43:1c66"
+    },
+    {
+      "domain": "heavy-r.com",
+      "ipv4": "172.67.20.237",
+      "ipv6": "::ffff:ac43:14ed"
+    },
+    {
+      "domain": "paytm.com",
+      "ipv4": "172.65.64.50",
+      "ipv6": "::ffff:ac41:4032"
+    },
+    {
+      "domain": "wpengine.com",
+      "ipv4": "104.18.36.22",
+      "ipv6": "::ffff:6812:2416"
+    },
+    {
+      "domain": "redd.tube",
+      "ipv4": "172.67.74.32",
+      "ipv6": "::ffff:ac43:4a20"
+    },
+    {
+      "domain": "yallakora.com",
+      "ipv4": "104.20.27.67",
+      "ipv6": "::ffff:6814:1b43"
+    },
+    {
+      "domain": "turbo.az",
+      "ipv4": "104.26.2.137",
+      "ipv6": "::ffff:681a:0289"
+    },
+    {
+      "domain": "yt1s.com",
+      "ipv4": "172.67.6.150",
+      "ipv6": "::ffff:ac43:0696"
+    },
+    {
+      "domain": "twinrdsyn.com",
+      "ipv4": "172.66.41.6",
+      "ipv6": "::ffff:ac42:2906"
+    },
+    {
+      "domain": "toptal.com",
+      "ipv4": "104.18.29.213",
+      "ipv6": "::ffff:6812:1dd5"
+    },
+    {
+      "domain": "laracasts.com",
+      "ipv4": "104.20.17.25",
+      "ipv6": "::ffff:6814:1119"
+    },
+    {
+      "domain": "codeforces.com",
+      "ipv4": "104.26.6.164",
+      "ipv6": "::ffff:681a:06a4"
+    },
+    {
+      "domain": "mudvod.tv",
+      "ipv4": "104.22.2.179",
+      "ipv6": "::ffff:6816:02b3"
+    },
+    {
+      "domain": "hdporncomics.com",
+      "ipv4": "172.67.74.105",
+      "ipv6": "::ffff:ac43:4a69"
+    },
+    {
+      "domain": "exeo.app",
+      "ipv4": "104.26.8.233",
+      "ipv6": "::ffff:681a:08e9"
+    },
+    {
+      "domain": "dirtyship.com",
+      "ipv4": "172.64.100.14",
+      "ipv6": "::ffff:ac40:640e"
+    },
+    {
+      "domain": "streamtape.to",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103"
+    },
+    {
+      "domain": "webvenadvdesign.com",
+      "ipv4": "172.67.183.106",
+      "ipv6": "::ffff:ac43:b76a"
+    },
+    {
+      "domain": "mangago.me",
+      "ipv4": "104.26.2.94",
+      "ipv6": "::ffff:681a:025e"
+    },
+    {
+      "domain": "wappalyzer.com",
+      "ipv4": "172.67.70.86",
+      "ipv6": "::ffff:ac43:4656"
+    },
+    {
+      "domain": "www.ccgg1.com",
+      "ipv4": "104.21.81.164",
+      "ipv6": "::ffff:6815:51a4"
+    },
+    {
+      "domain": "extfans.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "mangapark.net",
+      "ipv4": "172.67.191.43",
+      "ipv6": "::ffff:ac43:bf2b"
+    },
+    {
+      "domain": "thesimsresource.com",
+      "ipv4": "104.22.68.117",
+      "ipv6": "::ffff:6816:4475"
+    },
+    {
+      "domain": "mangafreak.net",
+      "ipv4": "104.26.5.92",
+      "ipv6": "::ffff:681a:055c"
+    },
+    {
+      "domain": "advatravel.com",
+      "ipv4": "172.67.150.18",
+      "ipv6": "::ffff:ac43:9612"
+    },
+    {
+      "domain": "cuevana3.ch",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003"
+    },
+    {
+      "domain": "etoland.co.kr",
+      "ipv4": "104.18.21.138",
+      "ipv6": "::ffff:6812:158a"
+    },
+    {
+      "domain": "brainly.in",
+      "ipv4": "104.18.184.11",
+      "ipv6": "::ffff:6812:b80b"
+    }
+  ]
+}

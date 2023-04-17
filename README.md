@@ -1,3 +1,4 @@
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=Cloudflare&logoColor=white)
 
 
 # 🌥️ برداشت‌کننده آدرس‌های وب سایت‌های کلودفلیر به صورت IPv4/IPv6 🌍

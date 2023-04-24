@@ -433,6 +433,12 @@
       "is_ir": true
     },
     {
+      "domain": "www.vultr.com",
+      "ipv4": "104.17.140.186",
+      "ipv6": "::ffff:6811:8cba",
+      "is_ir": false
+    },
+    {
       "domain": "picwish.com",
       "ipv4": "104.21.29.74",
       "ipv6": "::ffff:6815:1d4a",

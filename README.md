@@ -1,5 +1,6 @@
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=Cloudflare&logoColor=white)
-
+<br>
+![Next update](https://img.shields.io/badge/next%20update-200%20%E2%98%85-lightgrey?style=for-the-badge&color=yellow&logo=star)
 
 # 🌥️ برداشت‌کننده آدرس‌های وب سایت‌های کلودفلیر به صورت IPv4/IPv6 🌍
 CloudFlareIPExtractor ابزاری است که آدرس‌های IPv4 و IPv6 وب سایت‌هایی را که از کلودفلیر استفاده می‌کنند، برداشت می‌کند. این ابزار با پرس‌وجو در چندین رزولور DNS عم لیست جامعی از آدرس‌های IP ارائه می‌دهد.

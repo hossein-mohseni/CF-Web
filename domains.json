@@ -1,436 +1,482 @@
 {
   "data": [
     {
-      "domain": "tablou.ir",
-      "ipv4": "172.67.202.84",
-      "ipv6": "::ffff:ac43:ca54",
-      "is_ir": true
-    },
+  "data": [
     {
-      "domain": "orchidpharmed.com",
-      "ipv4": "104.21.1.161",
-      "ipv6": "::ffff:6815:01a1",
-      "is_ir": true
-    },
-    {
-      "domain": "tamit.ir",
+      "domain": "imanico.ir",
       "ipv4": "188.114.97.3",
       "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "forge-modern.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "telegram-channels.ir",
-      "ipv4": "104.21.21.173",
-      "ipv6": "::ffff:6815:15ad",
-      "is_ir": true
-    },
-    {
-      "domain": "toolgram.ir",
-      "ipv4": "172.67.158.79",
-      "ipv6": "::ffff:ac43:9e4f",
-      "is_ir": true
-    },
-    {
-      "domain": "toptoop.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "toptunes.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "parham-sarrafzadeh.ir",
-      "ipv4": "104.21.15.81",
-      "ipv6": "::ffff:6815:0f51",
-      "is_ir": true
-    },
-    {
-      "domain": "kelid-behesht.com",
-      "ipv4": "104.21.9.238",
-      "ipv6": "::ffff:6815:09ee",
-      "is_ir": true
-    },
-    {
-      "domain": "followeran.com",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "jalalamini.ir",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "mpcms.ir",
-      "ipv4": "172.67.146.135",
-      "ipv6": "::ffff:ac43:9287",
-      "is_ir": true
-    },
-    {
-      "domain": "pmpr.ir",
-      "ipv4": "104.21.81.206",
-      "ipv6": "::ffff:6815:51ce",
-      "is_ir": true
-    },
-    {
-      "domain": "appux.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "ketabnak.com",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "hmotahari.com",
-      "ipv4": "185.129.171.15",
-      "ipv6": "::ffff:b981:ab0f",
-      "is_ir": true
-    },
-    {
-      "domain": "sekeh337.ir",
-      "ipv4": "104.21.38.243",
-      "ipv6": "::ffff:6815:26f3",
-      "is_ir": true
-    },
-    {
-      "domain": "brandturkey.ir",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "translate68.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "nazaninzeinab.aminus3.com",
-      "ipv4": "104.26.1.127",
-      "ipv6": "::ffff:681a:017f",
-      "is_ir": true
-    },
-    {
-      "domain": "afrangco.ir",
-      "ipv4": "104.21.29.170",
-      "ipv6": "::ffff:6815:1daa",
-      "is_ir": true
-    },
-    {
-      "domain": "cargeek.ir",
-      "ipv4": "104.21.21.150",
-      "ipv6": "::ffff:6815:1596",
-      "is_ir": true
-    },
-    {
-      "domain": "www.khodshenas.ir",
-      "ipv4": "172.67.218.142",
-      "ipv6": "::ffff:ac43:da8e",
-      "is_ir": true
-    },
-    {
-      "domain": "dehkadenoor.ir",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "beloved.marketing",
-      "ipv4": "172.67.196.207",
-      "ipv6": "::ffff:ac43:c4cf",
-      "is_ir": true
-    },
-    {
-      "domain": "bimoshkel.ir",
-      "ipv4": "172.67.178.196",
-      "ipv6": "::ffff:ac43:b2c4",
-      "is_ir": true
-    },
-    {
-      "domain": "bazrco.ir",
-      "ipv4": "104.21.71.47",
-      "ipv6": "::ffff:6815:472f",
-      "is_ir": true
-    },
-    {
-      "domain": "rona.lighting",
-      "ipv4": "172.67.185.232",
-      "ipv6": "::ffff:ac43:b9e8",
-      "is_ir": true
-    },
-    {
-      "domain": "kandohost.com",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "www.kavoshfarda.com",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "www.coderz.ir",
-      "ipv4": "172.67.185.9",
-      "ipv6": "::ffff:ac43:b909",
-      "is_ir": true
-    },
-    {
-      "domain": "nilgam.com",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "viraworkshop.com",
-      "ipv4": "104.21.93.184",
-      "ipv6": "::ffff:6815:5db8",
-      "is_ir": true
-    },
-    {
-      "domain": "ariapay.io",
-      "ipv4": "104.26.1.229",
-      "ipv6": "::ffff:681a:01e5",
-      "is_ir": true
+      "ipv4": "172.67.199.167",
+      "ipv6": "::ffff:ac43:c7a7",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "1000site.ir",
       "ipv4": "188.114.97.3",
       "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "yektamandegar.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "svrs.ir",
       "ipv4": "188.114.96.3",
       "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
-      "domain": "iahs.kaums.ac.ir",
+      "domain": "turahi.ir",
       "ipv4": "188.114.96.3",
       "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "ramzinex.com",
-      "ipv4": "104.26.15.53",
-      "ipv6": "::ffff:681a:0f35",
-      "is_ir": true
-    },
-    {
-      "domain": "jobs.faraso.org",
-      "ipv4": "104.21.77.85",
-      "ipv6": "::ffff:6815:4d55",
-      "is_ir": true
-    },
-    {
-      "domain": "118nahal.ir",
-      "ipv4": "104.21.36.165",
-      "ipv6": "::ffff:6815:24a5",
-      "is_ir": true
-    },
-    {
-      "domain": "serverpars.com",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "www.netwebco.ir",
-      "ipv4": "172.67.215.180",
-      "ipv6": "::ffff:ac43:d7b4",
-      "is_ir": true
-    },
-    {
-      "domain": "18arcims.ir",
-      "ipv4": "172.67.166.192",
-      "ipv6": "::ffff:ac43:a6c0",
-      "is_ir": true
-    },
-    {
-      "domain": "nexload.ir",
-      "ipv4": "104.21.79.143",
-      "ipv6": "::ffff:6815:4f8f",
-      "is_ir": true
-    },
-    {
-      "domain": "bisabt.ir",
-      "ipv4": "104.21.16.131",
-      "ipv6": "::ffff:6815:1083",
-      "is_ir": true
-    },
-    {
-      "domain": "www.copypastekon.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "avval.ir",
-      "ipv4": "172.67.68.242",
-      "ipv6": "::ffff:ac43:44f2",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "tapsell.ir",
       "ipv4": "104.21.233.179",
       "ipv6": "::ffff:6815:e9b3",
-      "is_ir": true
-    },
-    {
-      "domain": "adivery.com",
-      "ipv4": "104.21.54.238",
-      "ipv6": "::ffff:6815:36ee",
-      "is_ir": true
-    },
-    {
-      "domain": "azaronline.com",
-      "ipv4": "172.67.68.36",
-      "ipv6": "::ffff:ac43:4424",
-      "is_ir": true
-    },
-    {
-      "domain": "metrix.ir",
-      "ipv4": "104.21.34.110",
-      "ipv6": "::ffff:6815:226e",
-      "is_ir": true
-    },
-    {
-      "domain": "b2n.ir",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "sahartv.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "nestle.ir",
-      "ipv4": "104.18.15.229",
-      "ipv6": "::ffff:6812:0fe5",
-      "is_ir": true
-    },
-    {
-      "domain": "elementorfa.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "nhl66.ir",
-      "ipv4": "104.21.235.84",
-      "ipv6": "::ffff:6815:eb54",
-      "is_ir": true
-    },
-    {
-      "domain": "parlakmarket.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "zula.ir",
-      "ipv4": "172.67.71.217",
-      "ipv6": "::ffff:ac43:47d9",
-      "is_ir": true
-    },
-    {
-      "domain": "webkima.com",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "amarfa.ir",
-      "ipv4": "172.67.207.97",
-      "ipv6": "::ffff:ac43:cf61",
-      "is_ir": true
-    },
-    {
-      "domain": "1o2.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "bdok.ir",
-      "ipv4": "172.67.180.238",
-      "ipv6": "::ffff:ac43:b4ee",
-      "is_ir": true
-    },
-    {
-      "domain": "boursepress.ir",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "kavoshfarda.com",
-      "ipv4": "188.114.96.3",
-      "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
-    },
-    {
-      "domain": "khodshenas.ir",
-      "ipv4": "172.67.218.142",
-      "ipv6": "::ffff:ac43:da8e",
-      "is_ir": true
-    },
-    {
-      "domain": "nasimword.ir",
-      "ipv4": "188.114.97.3",
-      "ipv6": "::ffff:bc72:6103",
-      "is_ir": true
-    },
-    {
-      "domain": "netwebco.ir",
-      "ipv4": "172.67.215.180",
-      "ipv6": "::ffff:ac43:d7b4",
-      "is_ir": true
-    },
-    {
-      "domain": "niazmandia.ir",
-      "ipv4": "104.21.34.114",
-      "ipv6": "::ffff:6815:2272",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "noora.ir",
       "ipv4": "188.114.96.3",
       "ipv6": "::ffff:bc72:6003",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "kandohost.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "tirestan.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "persian.ava360.com",
+      "ipv4": "104.21.91.134",
+      "ipv6": "::ffff:6815:5b86",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "serverpars.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "amarfa.ir",
+      "ipv4": "104.21.61.76",
+      "ipv6": "::ffff:6815:3d4c",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nasimword.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "bazrco.ir",
+      "ipv4": "104.21.71.47",
+      "ipv6": "::ffff:6815:472f",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "tamit.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "rsg24.ir",
+      "ipv4": "172.67.164.184",
+      "ipv6": "::ffff:ac43:a4b8",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "ketabnak.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "beloved.marketing",
+      "ipv4": "172.67.196.207",
+      "ipv6": "::ffff:ac43:c4cf",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "shemronhome.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "mediaad.org",
+      "ipv4": "104.21.235.76",
+      "ipv6": "::ffff:6815:eb4c",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nexload.ir",
+      "ipv4": "172.67.146.69",
+      "ipv6": "::ffff:ac43:9245",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "1o2.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "netwebco.ir",
+      "ipv4": "104.21.43.13",
+      "ipv6": "::ffff:6815:2b0d",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "webkima.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "bdok.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "avval.ir",
+      "ipv4": "172.67.68.242",
+      "ipv6": "::ffff:ac43:44f2",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "azaronline.com",
+      "ipv4": "104.26.3.186",
+      "ipv6": "::ffff:681a:03ba",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "tablou.ir",
       "ipv4": "104.21.69.7",
       "ipv6": "::ffff:6815:4507",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "toolgram.ir",
+      "ipv4": "104.21.57.20",
+      "ipv6": "::ffff:6815:3914",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nestle.ir",
+      "ipv4": "104.18.15.229",
+      "ipv6": "::ffff:6812:0fe5",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "18arcims.ir",
+      "ipv4": "172.67.166.192",
+      "ipv6": "::ffff:ac43:a6c0",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "kalands.ir",
+      "ipv4": "81.12.30.46",
+      "ipv6": "::ffff:510c:1e2e",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "bisabt.ir",
+      "ipv4": "172.67.212.184",
+      "ipv6": "::ffff:ac43:d4b8",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "boursepress.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nilgam.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "toptoop.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "sahartv.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "b2n.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "kavoshfarda.com",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "ramzinex.com",
+      "ipv4": "172.67.70.22",
+      "ipv6": "::ffff:ac43:4616",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "cloud2music.ir",
+      "ipv4": "104.21.43.18",
+      "ipv6": "::ffff:6815:2b12",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "darman.clinic",
+      "ipv4": "104.21.8.24",
+      "ipv6": "::ffff:6815:0818",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "iahs.kaums.ac.ir",
+      "ipv4": "188.114.98.0",
+      "ipv6": "::ffff:bc72:6200",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "metrix.ir",
+      "ipv4": "104.21.34.110",
+      "ipv6": "::ffff:6815:226e",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "ariapay.io",
+      "ipv4": "172.67.70.117",
+      "ipv6": "::ffff:ac43:4675",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "niazmandia.ir",
+      "ipv4": "172.67.160.122",
+      "ipv6": "::ffff:ac43:a07a",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nhl66.ir",
+      "ipv4": "104.21.235.83",
+      "ipv6": "::ffff:6815:eb53",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "balmusic.ir",
+      "ipv4": "104.21.69.164",
+      "ipv6": "::ffff:6815:45a4",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "nasraa.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "tgju.org",
       "ipv4": "104.26.2.238",
       "ipv6": "::ffff:681a:02ee",
-      "is_ir": true
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
-      "domain": "iranserver.com",
-      "ipv4": "104.21.20.148",
-      "ipv6": "::ffff:6815:1494",
-      "is_ir": true
+      "domain": "cargeek.ir",
+      "ipv4": "172.67.199.79",
+      "ipv6": "::ffff:ac43:c74f",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "navidmohajeri.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "bimoshkel.ir",
+      "ipv4": "172.67.178.196",
+      "ipv6": "::ffff:ac43:b2c4",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "toptunes.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "elementorfa.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "orchidpharmed.com",
+      "ipv4": "104.21.1.161",
+      "ipv6": "::ffff:6815:01a1",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "ettelaat-elmi.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "aradlearn.com",
+      "ipv4": "104.21.87.96",
+      "ipv6": "::ffff:6815:5760",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "adivery.com",
+      "ipv4": "104.21.54.238",
+      "ipv6": "::ffff:6815:36ee",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "118nahal.ir",
+      "ipv4": "104.21.36.165",
+      "ipv6": "::ffff:6815:24a5",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "bonmano.com",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "natilos.ir",
+      "ipv4": "188.114.97.3",
+      "ipv6": "::ffff:bc72:6103",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "parlakmarket.ir",
+      "ipv4": "188.114.96.3",
+      "ipv6": "::ffff:bc72:6003",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "khodshenas.ir",
+      "ipv4": "104.21.94.30",
+      "ipv6": "::ffff:6815:5e1e",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "zula.ir",
+      "ipv4": "104.26.0.120",
+      "ipv6": "::ffff:681a:0078",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
+    },
+    {
+      "domain": "wallex.ir",
+      "ipv4": "104.22.66.167",
+      "ipv6": "::ffff:6816:42a7",
+      "is_ir": true,
+      "protocol_version": "TLSv1.3"
     },
     {
       "domain": "www.vultr.com",

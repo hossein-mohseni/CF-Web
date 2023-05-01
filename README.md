@@ -10,6 +10,7 @@ CloudFlareIPExtractor ابزاری است که آدرس‌های IPv4 و IPv6 و
 *  برداشت آدرس‌های IPv4 و IPv6
 *  پشتیبانی از چندین رزولور DNS عمومی
 *  ساده‌ترین راه برای استفاده و پیکربندی
+*  نسخه TLS هر دامنه اضافه شد
 
 ## 💡 راهنمای استفاده:
 1. فایل `domains.json` را باز کنید تا به آدرس‌های IP برداشت شده دسترسی پیدا کنید.
@@ -38,6 +39,7 @@ CloudFlareIPExtractor is a tool that extracts the IPv4 and IPv6 addresses of web
 *  Extracts both IPv4 and IPv6 addresses
 *  Supports multiple public DNS resolvers
 *  Easy to use and configure
+*  TLS version Added
 
 ## 💡Usage:
 

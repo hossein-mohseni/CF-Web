@@ -470,13 +470,6 @@
       "protocol_version": "TLSv1.3"
     },
     {
-      "domain": "wallex.ir",
-      "ipv4": "104.22.66.167",
-      "ipv6": "::ffff:6816:42a7",
-      "is_ir": true,
-      "protocol_version": "TLSv1.3"
-    },
-    {
       "domain": "www.vultr.com",
       "ipv4": "104.17.140.186",
       "ipv6": "::ffff:6811:8cba",

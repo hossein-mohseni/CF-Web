@@ -10,7 +10,7 @@
 
 ## 💡 راهنمای استفاده:
 1. فایل `domains.json` را باز کنید و یا از آن در پروژه های خود استفاده کنید.
-2. لینک : [API](https://github.com/hossein-mohseni/CF-Web/blob/main/domains.json)
+2. لینک : [API](https://raw.githubusercontent.com/hossein-mohseni/CF-Web/main/domains.json)
 
 ## 🤝 همکاری:
 همیشه خوشحال می‌شویم که به این پروژه کمک کنید! در صورت بروز مشکل، pull request یا مشکل را ایجاد کنید.
@@ -37,7 +37,7 @@
 ## 💡Usage:
 
 1. Open the `domains.json` file or use it in your project as you want.
-2. Link : [API](https://github.com/hossein-mohseni/CF-Web/blob/main/domains.json)
+2. Link : [API](https://raw.githubusercontent.com/hossein-mohseni/CF-Web/main/domains.json)
 
 ## 🤝 Contributing:
 Contributions to this project are always welcome! Feel free to submit a pull request or create an issue if you encounter any problems.

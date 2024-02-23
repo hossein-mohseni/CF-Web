@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://img.shields.io/badge/-Cloudflare-f38020?style=flat-square&logo=Cloudflare&logoColor=white" alt="Cloudflare logo"><br> <img src="https://img.shields.io/badge/next%20update-190%20%E2%98%85-lightgrey?style=for-the-badge&color=yellow&logo=star" alt="Next update badge"> </p>
 
-# 🌥️ لیست دامنه های ایرانی متصل یه کلاودفلر 🌍
+# 🌥️ لیست دامنه های ایرانی متصل به کلاودفلر 🌍
 
 ## 🌟 ویژگی‌ها
 
